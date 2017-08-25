@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://apply.co.zw/</title>
+  <link>http://apply.co.zw/</link>
+
+<item>
+     <link>http://apply.co.zw/</link>
+     <title>Apply | Opportunities for High School students in Zimbabwe</title>
+     <description>Apply Zimbabwe provides comprehensive international and local opportunities to Zimbabwean High school students and recent school leavers.</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://apply.co.zw/index.html</link>
+     <title>Apply | Opportunities for High School students in Zimbabwe</title>
+     <description>Apply Zimbabwe provides comprehensive international and local opportunities to Zimbabwean High school students and recent school leavers.</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://apply.co.zw/graduates.html</link>
+     <title>Apply | Graduates</title>
+     <description>Apply | Graduates</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://apply.co.zw/blog/</link>
+     <title>Apply Zimbabwe | Blog -</title>
+     <description>Apply Zimbabwe | Blog -</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://apply.co.zw/blog/2016/11/05/high-school-opportunities-zimbabwean-students-apply-co-zw/</link>
+     <title>High school opportunities for Zimbabwean students at Apply.co.zw</title>
+     <description>We are Apply Zimbabwe and we provide comprehensive opportunities, contests and events to high school students in and across Zimbabwe.</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://apply.co.zw/blog/category/apply-zimbabwe/</link>
+     <title>Apply Zimbabwe Archives - Apply Zimbabwe | Blog</title>
+     <description>Apply Zimbabwe Archives - Apply Zimbabwe | Blog</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
